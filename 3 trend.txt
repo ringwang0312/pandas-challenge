@@ -1,0 +1,3 @@
+1. Majority(84.03%) of the players are Male
+2. Age fall in range 15-24 players accounts for >60% of overall players, and among them players aged between 20-24 are the largest group to play the game
+3. Item 178 was purchased the most and generate biggest value
